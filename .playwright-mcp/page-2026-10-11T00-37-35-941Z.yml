@@ -1,0 +1,40 @@
+- generic [ref=f7e3]:
+  - generic [ref=f7e4]:
+    - generic [ref=f7e5]:
+      - generic [ref=f7e7]: "Live Backend: http://localhost:5000/api/v1"
+      - generic [ref=f7e8]: •
+      - generic [ref=f7e9]: Targeting Express + MongoDB Server
+    - button "Switch to Delivery Agent View" [ref=f7e10] [cursor=pointer]
+  - generic [ref=f7e16]:
+    - banner [ref=f7e17]:
+      - generic [ref=f7e18]:
+        - button [ref=f7e19] [cursor=pointer]
+        - generic [ref=f7e21]: Ksheeraam Admin
+      - generic [ref=f7e22]:
+        - generic [ref=f7e23]: Rajesh Sharma (Admin)
+        - button [ref=f7e24] [cursor=pointer]
+    - main [ref=f7e28]:
+      - generic [ref=f7e29]:
+        - generic [ref=f7e30]:
+          - generic [ref=f7e31]:
+            - heading "Packaged Unit Inventory" [level=1] [ref=f7e32]
+            - paragraph [ref=f7e43]: Real-time tracking of saleable 500ml pouches and 1L glass bottles. Authoritative stock calculations are enforced via backend ledger transitions.
+          - generic [ref=f7e44]:
+            - button "Current Stock (0)" [ref=f7e45] [cursor=pointer]
+            - button "Audit Trail (0)" [ref=f7e46] [cursor=pointer]
+        - generic [ref=f7e47]:
+          - generic [ref=f7e61]:
+            - generic [ref=f7e62]: Physical In Cold Room
+            - generic [ref=f7e63]: 0 units
+          - generic [ref=f7e71]:
+            - generic [ref=f7e72]: Reserved for Drops
+            - generic [ref=f7e73]: 0 units
+          - generic [ref=f7e80]:
+            - generic [ref=f7e81]: Net Available to Sell
+            - generic [ref=f7e82]: 0 units
+          - generic [ref=f7e88]:
+            - generic [ref=f7e89]: Damaged / Rejected
+            - generic [ref=f7e90]: 0 units
+        - generic [ref=f7e92]:
+          - textbox "Search product name or packaging..." [ref=f7e96]
+          - generic [ref=f7e97]: Reserved stock is locked by tomorrow's active subscriptions and orders

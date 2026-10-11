@@ -1,0 +1,54 @@
+- generic [ref=f4e47]:
+  - banner [ref=f4e48]:
+    - generic [ref=f4e49]:
+      - generic [ref=f4e57]:
+        - heading "Ksheeraam Delivery Partner" [level=1] [ref=f4e58]
+        - paragraph [ref=f4e59]: Bellandur & Sarjapur Road Morning Sector 1
+      - generic [ref=f4e60]:
+        - button "Admin Mode" [ref=f4e61] [cursor=pointer]
+        - button "Sign Out" [ref=f4e66] [cursor=pointer]
+  - main [ref=f4e70]:
+    - generic [ref=f4e103]:
+      - button "Back to Route Manifest" [ref=f4e104] [cursor=pointer]
+      - generic [ref=f4e108]:
+        - generic [ref=f4e109]:
+          - generic [ref=f4e110]:
+            - text: KSH-2026-1004
+            - heading "Karthik Sundaram" [level=1] [ref=f4e111]
+            - generic [ref=f4e112]: "Slot: 5:30 AM - 7:00 AM"
+          - generic [ref=f4e116]: assigned
+        - generic [ref=f4e117]:
+          - generic [ref=f4e122]:
+            - generic [ref=f4e123]: Delivery Address
+            - paragraph [ref=f4e124]: Flat 12B, Prestige Ferns Residency, Harlur Road, 560102
+          - generic [ref=f4e125]:
+            - strong [ref=f4e126]: "Customer Instructions:"
+            - text: “Collect cash upon doorstep drop.”
+          - generic [ref=f4e127]:
+            - link "Open in Google Maps" [ref=f4e128] [cursor=pointer]:
+              - /url: https://maps.google.com/?q=Flat%2012B%2C%20Prestige%20Ferns%20Residency%2C%20Harlur%20Road%2C%20560102
+            - link "Call Customer" [ref=f4e133] [cursor=pointer]:
+              - /url: tel:9900887766
+        - generic [ref=f4e136]:
+          - heading "Packaged Milk Units to Drop" [level=3] [ref=f4e137]
+          - generic [ref=f4e139]:
+            - generic [ref=f4e140]:
+              - generic [ref=f4e141]: Creamy Rich Buffalo Milk
+              - generic [ref=f4e142]: 1L pack
+            - generic [ref=f4e143]: × 2
+        - generic [ref=f4e145]:
+          - generic [ref=f4e146]:
+            - generic [ref=f4e147]: Cash On Delivery Order
+            - text: Collect exact change before drop
+          - generic [ref=f4e148]: ₹206
+        - generic [ref=f4e150]:
+          - button "Mark Delivered" [ref=f4e151] [cursor=pointer]
+          - button "Report Exception" [ref=f4e156] [cursor=pointer]
+  - navigation [ref=f4e86]:
+    - generic [ref=f4e87]:
+      - link "My Route Drops" [ref=f4e88] [cursor=pointer]:
+        - /url: /delivery/manifest
+      - link "Completed Drops" [ref=f4e93] [cursor=pointer]:
+        - /url: /delivery/history
+      - link "Rider Profile" [ref=f4e98] [cursor=pointer]:
+        - /url: /delivery/profile

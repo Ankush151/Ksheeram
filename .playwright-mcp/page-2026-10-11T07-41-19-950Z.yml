@@ -1,0 +1,286 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e10]: Live Express Backend Mode
+      - generic [ref=e11]: •
+      - button "How to connect real API?" [ref=e13] [cursor=pointer]
+    - button "Dismiss top banner" [ref=e14] [cursor=pointer]
+  - banner [ref=e18]:
+    - generic [ref=e20]:
+      - link [ref=e21] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e25]:
+          - generic [ref=e26]: Ksheeraam
+          - paragraph [ref=e28]: Farm Pure • Before 7 AM
+      - generic [ref=e33]:
+        - link "View checkout" [ref=e34] [cursor=pointer]:
+          - /url: /checkout
+          - generic [ref=e38]: Checkout
+        - button "A" [ref=e169] [cursor=pointer]
+        - button "Toggle navigation" [ref=e173] [cursor=pointer]
+  - main [ref=e42]:
+    - generic [ref=e202]:
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e207]: 100% Raw Chilled Milk • Zero Preservatives
+          - heading "Pure Farm-Fresh Milk, Delivered Before 7:00 AM" [level=1] [ref=e212]
+          - paragraph [ref=e213]: Procured directly from verified Indian dairy farmers, tested for 24 purity parameters, and delivered silently to your doorstep in sterilized glass bottles and eco-pouches.
+          - generic [ref=e214]:
+            - generic [ref=e215]: Before 7 AM Drop
+            - generic [ref=e220]: 24 Lab Purity Tests
+            - generic [ref=e225]: Pause Anytime
+          - generic [ref=e229]:
+            - link [ref=e230] [cursor=pointer]:
+              - /url: /products
+              - button "Start Daily Subscription" [ref=e231]
+            - link [ref=e236] [cursor=pointer]:
+              - /url: /products
+              - button "One-Time Order" [ref=e237]
+          - generic [ref=e239]:
+            - generic [ref=e240]:
+              - img "User" [ref=e241]
+              - img "User" [ref=e242]
+              - img "User" [ref=e243]
+            - paragraph [ref=e244]: 4.9/5 Rating trusted by 12,000+ morning families across Bengaluru & NCR
+        - generic [ref=e248]:
+          - img "Pure farm milk in glass bottle" [ref=e249]
+          - generic [ref=e254]:
+            - paragraph [ref=e255]: 4°C Chilled Drop
+            - paragraph [ref=e256]: Unbroken Cold Chain
+          - generic [ref=e264]:
+            - paragraph [ref=e265]: Morning Dispatch
+            - paragraph [ref=e266]: Quiet Doorstep Service
+      - generic [ref=e267]:
+        - generic [ref=e268]:
+          - generic [ref=e269]: Direct Farm Sourcing
+          - heading "Our Signature Daily Milk Range" [level=2] [ref=e270]
+          - paragraph [ref=e271]: Available in flexible 500 ml pouches and 1 Litre UV-sterilized glass bottles. Choose daily, alternate days, or custom weekly delivery.
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - img "A2 Gir Cow Fresh Milk" [ref=e276]
+                - generic [ref=e277]: Best Seller
+                - generic [ref=e278]: 4.5% Min Fat
+              - generic [ref=e279]:
+                - generic [ref=e280]:
+                  - heading "A2 Gir Cow Fresh Milk" [level=3] [ref=e281]
+                  - paragraph [ref=e282]: Single-origin pure A2 beta-casein whole milk from pasture...
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: "Available Packages:"
+                    - generic [ref=e286]: 500ml & 1 Litre
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: "Starting from:"
+                    - generic [ref=e289]:
+                      - text: ₹48
+                      - generic [ref=e290]: / 500ml
+                - list [ref=e291]:
+                  - listitem [ref=e292]:
+                    - generic [ref=e296]: 100% Pure & Unadulterated milk
+                  - listitem [ref=e297]:
+                    - generic [ref=e301]: Chilled to 4°C within 15 minutes of milking
+            - generic [ref=e302]:
+              - link [ref=e303] [cursor=pointer]:
+                - /url: /products/a2-gir-cow-milk
+                - button "View & Subscribe" [ref=e304]
+              - button "Add 1-time delivery to cart" [ref=e306] [cursor=pointer]
+          - generic [ref=e312]:
+            - generic [ref=e313]:
+              - generic [ref=e314]:
+                - img "Creamy Buffalo Whole Milk" [ref=e315]
+                - generic [ref=e316]: Best Seller
+                - generic [ref=e317]: 6.5% Min Fat
+              - generic [ref=e318]:
+                - generic [ref=e319]:
+                  - heading "Creamy Buffalo Whole Milk" [level=3] [ref=e320]
+                  - paragraph [ref=e321]: High-fat wholesome buffalo milk ideal for traditional tea...
+                - generic [ref=e322]:
+                  - generic [ref=e323]:
+                    - generic [ref=e324]: "Available Packages:"
+                    - generic [ref=e325]: 500ml & 1 Litre
+                  - generic [ref=e326]:
+                    - generic [ref=e327]: "Starting from:"
+                    - generic [ref=e328]:
+                      - text: ₹44
+                      - generic [ref=e329]: / 500ml
+                - list [ref=e330]:
+                  - listitem [ref=e331]:
+                    - generic [ref=e335]: 100% Pure & Unadulterated milk
+                  - listitem [ref=e336]:
+                    - generic [ref=e340]: Chilled to 4°C within 15 minutes of milking
+            - generic [ref=e341]:
+              - link [ref=e342] [cursor=pointer]:
+                - /url: /products/creamy-buffalo-milk
+                - button "View & Subscribe" [ref=e343]
+              - button "Add 1-time delivery to cart" [ref=e345] [cursor=pointer]
+          - generic [ref=e351]:
+            - generic [ref=e352]:
+              - generic [ref=e353]:
+                - img "Farm Fresh Cow Whole Milk" [ref=e354]
+                - generic [ref=e355]: Best Seller
+                - generic [ref=e356]: 4.0% Min Fat
+              - generic [ref=e357]:
+                - generic [ref=e358]:
+                  - heading "Farm Fresh Cow Whole Milk" [level=3] [ref=e359]
+                  - paragraph [ref=e360]: Daily fresh cow milk sourced from local village farms. Un...
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - generic [ref=e363]: "Available Packages:"
+                    - generic [ref=e364]: 500ml & 1 Litre
+                  - generic [ref=e365]:
+                    - generic [ref=e366]: "Starting from:"
+                    - generic [ref=e367]:
+                      - text: ₹38
+                      - generic [ref=e368]: / 500ml
+                - list [ref=e369]:
+                  - listitem [ref=e370]:
+                    - generic [ref=e374]: 100% Pure & Unadulterated milk
+                  - listitem [ref=e375]:
+                    - generic [ref=e379]: Chilled to 4°C within 15 minutes of milking
+            - generic [ref=e380]:
+              - link [ref=e381] [cursor=pointer]:
+                - /url: /products/farm-fresh-cow-milk
+                - button "View & Subscribe" [ref=e382]
+              - button "Add 1-time delivery to cart" [ref=e384] [cursor=pointer]
+        - link [ref=e391] [cursor=pointer]:
+          - /url: /products
+          - button "Explore Full Dairy Catalog (Ghee, Paneer, Curd)" [ref=e392]
+      - generic [ref=e398]:
+        - generic [ref=e399]:
+          - text: Our 12-Hour Journey
+          - heading "From Indian Farms to Your Doorstep" [level=2] [ref=e400]
+          - paragraph [ref=e401]: Unlike industrial supermarket milk that sits in plastic pouches for 4–6 days, Ksheeraam delivers within 12 hours of milking.
+        - generic [ref=e402]:
+          - generic [ref=e403]:
+            - generic [ref=e404]: "1"
+            - heading "Ethical Farm Milking" [level=3] [ref=e405]
+            - paragraph [ref=e406]: Procured at 5:00 AM from verified indigenous Gir cows and Murrah buffaloes fed green herbal fodder.
+          - generic [ref=e407]:
+            - generic [ref=e408]: "2"
+            - heading "Instant 4°C Chilling" [level=3] [ref=e409]
+            - paragraph [ref=e410]: Immediately chilled to 4°C within 45 minutes of milking to stop bacterial replication without preservatives.
+          - generic [ref=e411]:
+            - generic [ref=e412]: "3"
+            - heading "24 Parameter Testing" [level=3] [ref=e413]
+            - paragraph [ref=e414]: Tested for urea, starch, detergents, antibiotics, aflatoxins, and water adulteration in certified labs.
+          - generic [ref=e415]:
+            - generic [ref=e416]: "4"
+            - heading "Doorstep Drop by 7 AM" [level=3] [ref=e417]
+            - paragraph [ref=e418]: Dispatched in insulated crates and placed at your doorstep before you wake up for morning tea.
+      - generic [ref=e419]:
+        - generic [ref=e420]:
+          - generic [ref=e421]: Transparency
+          - heading "Why Switch from Commercial Packet Milk?" [level=2] [ref=e422]
+        - table [ref=e425]:
+          - rowgroup [ref=e426]:
+            - row [ref=e427]:
+              - columnheader "Parameter" [ref=e428]
+              - columnheader "Ksheeraam Milk" [ref=e429]
+              - columnheader "Commercial Packet Milk" [ref=e430]
+          - rowgroup [ref=e431]:
+            - row [ref=e432]:
+              - cell "Freshness from Milking" [ref=e433]
+              - cell "Delivered in 12–16 Hours" [ref=e434]
+              - cell "4 to 6 Days Old" [ref=e438]
+            - row [ref=e439]:
+              - cell "Processing & Adulteration" [ref=e440]
+              - cell "Raw Whole Milk, Untampered" [ref=e441]
+              - cell "Skimmed, Reconstituted Powder" [ref=e445]
+            - row [ref=e446]:
+              - cell "Packaging Quality" [ref=e447]
+              - cell "UV Sterilized Glass / Food Pouches" [ref=e448]
+              - cell "Low-grade Single-use Plastic" [ref=e452]
+            - row [ref=e453]:
+              - cell "Antibiotic & Hormone Guarantee" [ref=e454]
+              - cell "Certified Zero Oxytocin & Chemicals" [ref=e455]
+              - cell "Not Tested Daily" [ref=e459]
+            - row [ref=e460]:
+              - cell "Subscription Flexibility" [ref=e461]
+              - cell "Pause, resume or change in 1 click" [ref=e462]
+              - cell "Manual Daily Grocery Runs" [ref=e466]
+      - generic [ref=e469]:
+        - text: Assisted Milk Delivery
+        - heading "Prefer to order or setup subscription on WhatsApp?" [level=2] [ref=e470]
+        - paragraph [ref=e471]: Our dairy concierge can configure your daily drop schedule, save your apartment instructions, and start your morning milk delivery over a simple WhatsApp chat.
+        - link "Chat with Dairy Concierge" [ref=e473] [cursor=pointer]:
+          - /url: https://wa.me/919876543210?text=Hello%20Ksheeraam!%20I%20would%20like%20to%20start%20milk%20delivery%20for%20my%20address.
+  - contentinfo [ref=e80]:
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e88]:
+          - heading "Delivered Before 7:00 AM" [level=4] [ref=e89]
+          - paragraph [ref=e90]: Chilled cold-chain drops straight to your door every single morning.
+        - generic [ref=e96]:
+          - heading "24 Lab Purity Checks" [level=4] [ref=e97]
+          - paragraph [ref=e98]: Zero synthetic hormones, zero antibiotics, zero preservatives.
+        - generic [ref=e104]:
+          - heading "Fair Farmer Sourcing" [level=4] [ref=e105]
+          - paragraph [ref=e106]: Fair prices paid directly to local dairy farmers across India.
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - generic [ref=e109]:
+            - generic [ref=e110]: K
+            - generic [ref=e111]: Ksheeraam
+          - paragraph [ref=e112]: Bringing back pure, raw, farm-fresh milk the way nature intended. Procured with care, packaged in sterilized glass and eco-pouches, and delivered silently before dawn.
+          - generic [ref=e113]:
+            - paragraph [ref=e114]: "FSSAI License: 11223334000189"
+            - paragraph [ref=e115]: "GSTIN: 29ABCDE1234F1Z5"
+        - generic [ref=e116]:
+          - heading "Products & Plans" [level=5] [ref=e117]
+          - list [ref=e118]:
+            - listitem [ref=e119]:
+              - link "Pure Cow Milk (500ml & 1L)" [ref=e120] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e121]:
+              - link "Desi Gir Cow A2 Milk" [ref=e122] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e123]:
+              - link "Creamy Buffalo Milk" [ref=e124] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e125]:
+              - link "Vedic Bilona Cow Ghee" [ref=e126] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e127]:
+              - link "Fresh Farm Paneer & Curd" [ref=e128] [cursor=pointer]:
+                - /url: /products
+        - generic [ref=e129]:
+          - heading "Account & Service" [level=5] [ref=e130]
+          - list [ref=e131]:
+            - listitem [ref=e132]:
+              - link "Manage Active Subscriptions" [ref=e133] [cursor=pointer]:
+                - /url: /subscriptions
+            - listitem [ref=e134]:
+              - link "Track Morning Deliveries" [ref=e135] [cursor=pointer]:
+                - /url: /orders
+            - listitem [ref=e136]:
+              - link "Wallet Top-up & Invoices" [ref=e137] [cursor=pointer]:
+                - /url: /payments
+            - listitem [ref=e138]:
+              - link "Delivery Addresses" [ref=e139] [cursor=pointer]:
+                - /url: /addresses
+            - listitem [ref=e140]:
+              - link "Cart & Express Checkout" [ref=e141] [cursor=pointer]:
+                - /url: /checkout
+        - generic [ref=e142]:
+          - heading "Get in Touch" [level=5] [ref=e143]
+          - generic [ref=e144]:
+            - 'link "WhatsApp: +919876543210" [ref=e145] [cursor=pointer]':
+              - /url: https://wa.me/919876543210?text=Hello%20Ksheeraam!%20I%20have%20an%20inquiry%20about%20milk%20delivery.
+            - generic [ref=e149]: support@ksheeraam.com
+            - generic [ref=e154]: Ksheeraam Chilling & Cold-Chain Center, Bengaluru, Karnataka, India
+      - paragraph [ref=e160]: © 2026 Ksheeraam Dairy Private Limited. All rights reserved.
+  - button "Chat on WhatsApp" [ref=e162] [cursor=pointer]:
+    - generic [ref=e168]: WhatsApp Order & Help
+  - navigation [ref=e175]:
+    - generic [ref=e176]:
+      - link "Home" [ref=e177] [cursor=pointer]:
+        - /url: /
+      - link "Products" [ref=e182] [cursor=pointer]:
+        - /url: /products
+      - link "Subscriptions" [ref=e187] [cursor=pointer]:
+        - /url: /subscriptions
+      - link "Orders" [ref=e191] [cursor=pointer]:
+        - /url: /orders
+      - link "Account" [ref=e197] [cursor=pointer]:
+        - /url: /profile

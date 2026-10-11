@@ -1,0 +1,149 @@
+- generic [ref=f6e47]:
+  - generic [ref=f6e48]:
+    - generic [ref=f6e49]:
+      - generic [ref=f6e51]: "Live Backend: http://localhost:5000/api/v1"
+      - generic [ref=f6e52]: •
+      - generic [ref=f6e53]: Targeting Express + MongoDB Server
+    - button "Switch to Delivery Agent View" [ref=f6e54] [cursor=pointer]
+  - generic [ref=f6e60]:
+    - banner [ref=f6e61]:
+      - generic [ref=f6e62]:
+        - button [ref=f6e63] [cursor=pointer]
+        - generic [ref=f6e65]: Ksheeraam Admin
+      - generic [ref=f6e66]:
+        - generic [ref=f6e67]: Rajesh Sharma (Admin)
+        - button [ref=f6e68] [cursor=pointer]
+    - main [ref=f6e72]:
+      - generic [ref=f6e73]:
+        - generic [ref=f6e74]:
+          - generic [ref=f6e75]:
+            - heading "Morning Operations Hub" [level=1] [ref=f6e76]
+            - paragraph [ref=f6e77]: Real-time delivery progress, stock allocation, and tomorrow's procurement demand.
+          - generic [ref=f6e78]:
+            - link [ref=f6e79] [cursor=pointer]:
+              - /url: /admin/deliveries
+              - button "View Live Manifest" [ref=f6e80]
+            - link [ref=f6e88] [cursor=pointer]:
+              - /url: /admin/procurement
+              - button "Receive PO Stock" [ref=f6e89]
+        - generic [ref=f6e97]:
+          - generic [ref=f6e98]:
+            - generic [ref=f6e99]: Today's Scheduled Drops
+            - generic [ref=f6e103]: "42"
+            - paragraph [ref=f6e104]: Across Bengaluru morning sectors
+          - generic [ref=f6e105]:
+            - generic [ref=f6e106]: Deliveries In-Progress
+            - generic [ref=f6e113]: 0 / 0
+            - generic [ref=f6e114]:
+              - generic [ref=f6e115]: 0 Delivered
+              - generic [ref=f6e116]: • 0 Failed
+          - generic [ref=f6e117]:
+            - generic [ref=f6e118]: Awaiting Allocation
+            - generic [ref=f6e123]: "0"
+            - paragraph [ref=f6e124]: Scheduled drops needing pack verify
+          - generic [ref=f6e125]:
+            - generic [ref=f6e126]: Payment Alerts
+            - generic [ref=f6e130]: "0"
+            - link "Reconcile Cash & Gateway →" [ref=f6e131] [cursor=pointer]:
+              - /url: /admin/payments
+        - generic [ref=f6e132]:
+          - generic [ref=f6e134]:
+            - generic [ref=f6e135]:
+              - heading "Available Packaged Stock by Product (Units)" [level=3] [ref=f6e147]
+              - link "Manage Stock →" [ref=f6e148] [cursor=pointer]:
+                - /url: /admin/inventory
+            - table [ref=f6e150]:
+              - rowgroup [ref=f6e151]:
+                - row [ref=f6e152]:
+                  - columnheader "Product & Package" [ref=f6e153]
+                  - columnheader "Physical Units" [ref=f6e154]
+                  - columnheader "Reserved Drops" [ref=f6e155]
+                  - columnheader "Available Saleable" [ref=f6e156]
+                  - columnheader "Damaged" [ref=f6e157]
+              - rowgroup [ref=f6e158]:
+                - row [ref=f6e159]:
+                  - cell "A2 Gir Cow Fresh Milk (500ml)" [ref=f6e160]
+                  - cell "120" [ref=f6e161]
+                  - cell "20" [ref=f6e162]
+                  - cell "100" [ref=f6e163]
+                  - cell "1" [ref=f6e164]
+                - row [ref=f6e165]:
+                  - cell "A2 Gir Cow Fresh Milk (1L)" [ref=f6e166]
+                  - cell "120" [ref=f6e167]
+                  - cell "22" [ref=f6e168]
+                  - cell "98" [ref=f6e169]
+                  - cell "1" [ref=f6e170]
+                - row [ref=f6e171]:
+                  - cell "Farm Fresh Cow Whole Milk (500ml)" [ref=f6e172]
+                  - cell "120" [ref=f6e173]
+                  - cell "20" [ref=f6e174]
+                  - cell "100" [ref=f6e175]
+                  - cell "1" [ref=f6e176]
+                - row [ref=f6e177]:
+                  - cell "Farm Fresh Cow Whole Milk (1L)" [ref=f6e178]
+                  - cell "120" [ref=f6e179]
+                  - cell "20" [ref=f6e180]
+                  - cell "100" [ref=f6e181]
+                  - cell "1" [ref=f6e182]
+                - row [ref=f6e183]:
+                  - cell "Creamy Buffalo Whole Milk (500ml)" [ref=f6e184]
+                  - cell "120" [ref=f6e185]
+                  - cell "20" [ref=f6e186]
+                  - cell "100" [ref=f6e187]
+                  - cell "1" [ref=f6e188]
+                - row [ref=f6e189]:
+                  - cell "Creamy Buffalo Whole Milk (1L)" [ref=f6e190]
+                  - cell "120" [ref=f6e191]
+                  - cell "20" [ref=f6e192]
+                  - cell "100" [ref=f6e193]
+                  - cell "1" [ref=f6e194]
+          - generic [ref=f6e196]:
+            - generic [ref=f6e197]:
+              - heading "Tomorrow's Milk Demand" [level=3] [ref=f6e202]
+              - generic [ref=f6e203]: Cutoff 8:00 PM Tonight
+            - generic [ref=f6e204]:
+              - generic [ref=f6e205]:
+                - generic [ref=f6e206]:
+                  - generic [ref=f6e207]: A2 Gir Cow Fresh Milk (500ml)
+                  - generic [ref=f6e208]: 22 units required
+                - generic [ref=f6e209]:
+                  - generic [ref=f6e210]: "Procurement Scheduled: 126 units"
+                  - generic [ref=f6e211]: ✓ Surplus +104
+              - generic [ref=f6e212]:
+                - generic [ref=f6e213]:
+                  - generic [ref=f6e214]: A2 Gir Cow Fresh Milk (1L)
+                  - generic [ref=f6e215]: 24 units required
+                - generic [ref=f6e216]:
+                  - generic [ref=f6e217]: "Procurement Scheduled: 126 units"
+                  - generic [ref=f6e218]: ✓ Surplus +102
+              - generic [ref=f6e219]:
+                - generic [ref=f6e220]:
+                  - generic [ref=f6e221]: Farm Fresh Cow Whole Milk (500ml)
+                  - generic [ref=f6e222]: 22 units required
+                - generic [ref=f6e223]:
+                  - generic [ref=f6e224]: "Procurement Scheduled: 126 units"
+                  - generic [ref=f6e225]: ✓ Surplus +104
+              - generic [ref=f6e226]:
+                - generic [ref=f6e227]:
+                  - generic [ref=f6e228]: Farm Fresh Cow Whole Milk (1L)
+                  - generic [ref=f6e229]: 22 units required
+                - generic [ref=f6e230]:
+                  - generic [ref=f6e231]: "Procurement Scheduled: 126 units"
+                  - generic [ref=f6e232]: ✓ Surplus +104
+              - generic [ref=f6e233]:
+                - generic [ref=f6e234]:
+                  - generic [ref=f6e235]: Creamy Buffalo Whole Milk (500ml)
+                  - generic [ref=f6e236]: 22 units required
+                - generic [ref=f6e237]:
+                  - generic [ref=f6e238]: "Procurement Scheduled: 126 units"
+                  - generic [ref=f6e239]: ✓ Surplus +104
+              - generic [ref=f6e240]:
+                - generic [ref=f6e241]:
+                  - generic [ref=f6e242]: Creamy Buffalo Whole Milk (1L)
+                  - generic [ref=f6e243]: 22 units required
+                - generic [ref=f6e244]:
+                  - generic [ref=f6e245]: "Procurement Scheduled: 126 units"
+                  - generic [ref=f6e246]: ✓ Surplus +104
+            - link [ref=f6e247] [cursor=pointer]:
+              - /url: /admin/procurement
+              - button "Issue Purchase Order to Farm Suppliers →" [ref=f6e248]

@@ -1,0 +1,121 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e5]:
+    - generic [ref=f1e6]:
+      - generic [ref=f1e10]: Live Express Backend Mode
+      - generic [ref=f1e11]: •
+      - button "How to connect real API?" [ref=f1e12] [cursor=pointer]
+    - button "Dismiss top banner" [ref=f1e13] [cursor=pointer]
+  - banner [ref=f1e17]:
+    - generic [ref=f1e19]:
+      - link [ref=f1e20] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f1e24]:
+          - generic [ref=f1e25]: Ksheeraam
+          - paragraph [ref=f1e27]: Farm Pure • Before 7 AM
+      - generic [ref=f1e28]:
+        - link "View checkout" [ref=f1e29] [cursor=pointer]:
+          - /url: /checkout
+          - generic [ref=f1e33]: Checkout
+        - generic [ref=f1e34]:
+          - link "Log In" [ref=f1e35] [cursor=pointer]:
+            - /url: /login
+          - link "Join Ksheeraam" [ref=f1e36] [cursor=pointer]:
+            - /url: /register
+        - button "Toggle navigation" [ref=f1e37] [cursor=pointer]
+  - main [ref=f1e39]:
+    - generic [ref=f1e40]:
+      - generic [ref=f1e41]:
+        - generic [ref=f1e42]: 100% Farm Pure Dairy
+        - heading "Fresh Milk & Traditional Dairy" [level=1] [ref=f1e43]
+        - paragraph [ref=f1e44]: Configurable in 500 ml eco-pouches and 1 Litre UV-sterilized glass bottles. Subscribe for daily hassle-free morning drops before 7 AM or place one-time orders.
+      - generic [ref=f1e45]:
+        - generic [ref=f1e46]:
+          - button "All Dairy Products" [ref=f1e47] [cursor=pointer]
+          - button "Cow Milk" [ref=f1e48] [cursor=pointer]
+          - button "Gir Cow A2 Milk" [ref=f1e49] [cursor=pointer]
+          - button "Buffalo Milk" [ref=f1e50] [cursor=pointer]
+          - button "Bilona Ghee" [ref=f1e51] [cursor=pointer]
+          - button "Fresh Paneer" [ref=f1e52] [cursor=pointer]
+        - textbox "Search milk, ghee, paneer..." [ref=f1e56]
+      - generic [ref=f1e57]:
+        - status "Loading" [ref=f1e59]
+        - paragraph [ref=f1e60]: Fetching fresh batch availability...
+  - contentinfo [ref=f1e61]:
+    - generic [ref=f1e62]:
+      - generic [ref=f1e63]:
+        - generic [ref=f1e69]:
+          - heading "Delivered Before 7:00 AM" [level=4] [ref=f1e70]
+          - paragraph [ref=f1e71]: Chilled cold-chain drops straight to your door every single morning.
+        - generic [ref=f1e77]:
+          - heading "24 Lab Purity Checks" [level=4] [ref=f1e78]
+          - paragraph [ref=f1e79]: Zero synthetic hormones, zero antibiotics, zero preservatives.
+        - generic [ref=f1e85]:
+          - heading "Fair Farmer Sourcing" [level=4] [ref=f1e86]
+          - paragraph [ref=f1e87]: Fair prices paid directly to local dairy farmers across India.
+      - generic [ref=f1e88]:
+        - generic [ref=f1e89]:
+          - generic [ref=f1e90]:
+            - generic [ref=f1e91]: K
+            - generic [ref=f1e92]: Ksheeraam
+          - paragraph [ref=f1e93]: Bringing back pure, raw, farm-fresh milk the way nature intended. Procured with care, packaged in sterilized glass and eco-pouches, and delivered silently before dawn.
+          - generic [ref=f1e94]:
+            - paragraph [ref=f1e95]: "FSSAI License: 11223334000189"
+            - paragraph [ref=f1e96]: "GSTIN: 29ABCDE1234F1Z5"
+        - generic [ref=f1e97]:
+          - heading "Products & Plans" [level=5] [ref=f1e98]
+          - list [ref=f1e99]:
+            - listitem [ref=f1e100]:
+              - link "Pure Cow Milk (500ml & 1L)" [ref=f1e101] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f1e102]:
+              - link "Desi Gir Cow A2 Milk" [ref=f1e103] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f1e104]:
+              - link "Creamy Buffalo Milk" [ref=f1e105] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f1e106]:
+              - link "Vedic Bilona Cow Ghee" [ref=f1e107] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f1e108]:
+              - link "Fresh Farm Paneer & Curd" [ref=f1e109] [cursor=pointer]:
+                - /url: /products
+        - generic [ref=f1e110]:
+          - heading "Account & Service" [level=5] [ref=f1e111]
+          - list [ref=f1e112]:
+            - listitem [ref=f1e113]:
+              - link "Manage Active Subscriptions" [ref=f1e114] [cursor=pointer]:
+                - /url: /subscriptions
+            - listitem [ref=f1e115]:
+              - link "Track Morning Deliveries" [ref=f1e116] [cursor=pointer]:
+                - /url: /orders
+            - listitem [ref=f1e117]:
+              - link "Wallet Top-up & Invoices" [ref=f1e118] [cursor=pointer]:
+                - /url: /payments
+            - listitem [ref=f1e119]:
+              - link "Delivery Addresses" [ref=f1e120] [cursor=pointer]:
+                - /url: /addresses
+            - listitem [ref=f1e121]:
+              - link "Cart & Express Checkout" [ref=f1e122] [cursor=pointer]:
+                - /url: /checkout
+        - generic [ref=f1e123]:
+          - heading "Get in Touch" [level=5] [ref=f1e124]
+          - generic [ref=f1e125]:
+            - 'link "WhatsApp: +919876543210" [ref=f1e126] [cursor=pointer]':
+              - /url: https://wa.me/919876543210?text=Hello%20Ksheeraam!%20I%20have%20an%20inquiry%20about%20milk%20delivery.
+            - generic [ref=f1e130]: support@ksheeraam.com
+            - generic [ref=f1e135]: Ksheeraam Chilling & Cold-Chain Center, Bengaluru, Karnataka, India
+      - paragraph [ref=f1e141]: © 2026 Ksheeraam Dairy Private Limited. All rights reserved.
+  - button "Chat on WhatsApp" [ref=f1e143] [cursor=pointer]:
+    - generic [ref=f1e149]: WhatsApp Order & Help
+  - navigation [ref=f1e150]:
+    - generic [ref=f1e151]:
+      - link "Home" [ref=f1e152] [cursor=pointer]:
+        - /url: /
+      - link "Products" [ref=f1e157] [cursor=pointer]:
+        - /url: /products
+      - link "Subscriptions" [ref=f1e162] [cursor=pointer]:
+        - /url: /subscriptions
+      - link "Orders" [ref=f1e166] [cursor=pointer]:
+        - /url: /orders
+      - link "Account" [ref=f1e172] [cursor=pointer]:
+        - /url: /profile

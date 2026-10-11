@@ -1,0 +1,16 @@
+{
+  "name": "@ksheeraam/contracts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared TypeScript API contracts, DTOs, and domain enums for Ksheeraam",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.0"
+  }
+}

@@ -1,0 +1,33 @@
+- generic [ref=f11e3]:
+  - banner [ref=f11e4]:
+    - generic [ref=f11e5]:
+      - generic [ref=f11e13]:
+        - heading "Ksheeraam Delivery Partner" [level=1] [ref=f11e14]
+        - paragraph [ref=f11e15]: Morning Route Active
+      - generic [ref=f11e16]:
+        - button "Admin Mode" [ref=f11e17] [cursor=pointer]
+        - button "Sign Out" [ref=f11e22] [cursor=pointer]
+  - main [ref=f11e26]:
+    - generic [ref=f11e28]:
+      - generic [ref=f11e29]:
+        - generic [ref=f11e30]:
+          - text: Morning Delivery Manifest
+          - heading "Assigned Route Drops" [level=1] [ref=f11e31]
+          - paragraph [ref=f11e32]:
+            - text: "Agent:"
+            - strong [ref=f11e33]: Rajesh Sharma (Admin)
+            - text: • Sector 1
+        - generic [ref=f11e34]:
+          - text: "0"
+          - generic [ref=f11e35]: Drops Remaining
+      - generic [ref=f11e36]:
+        - button "Pending (0)" [ref=f11e37] [cursor=pointer]
+        - button "Completed (0)" [ref=f11e38] [cursor=pointer]
+  - navigation [ref=f11e42]:
+    - generic [ref=f11e43]:
+      - link "My Route Drops" [ref=f11e44] [cursor=pointer]:
+        - /url: /delivery/manifest
+      - link "Completed Drops" [ref=f11e49] [cursor=pointer]:
+        - /url: /delivery/history
+      - link "Rider Profile" [ref=f11e54] [cursor=pointer]:
+        - /url: /delivery/profile

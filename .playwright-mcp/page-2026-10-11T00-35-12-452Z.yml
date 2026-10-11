@@ -1,0 +1,107 @@
+- generic [ref=f3e3]:
+  - generic [ref=f3e5]:
+    - generic [ref=f3e6]:
+      - generic [ref=f3e10]: Live Express Backend Mode
+      - generic [ref=f3e11]: •
+      - button "How to connect real API?" [ref=f3e12] [cursor=pointer]
+    - button "Dismiss top banner" [ref=f3e13] [cursor=pointer]
+  - banner [ref=f3e17]:
+    - generic [ref=f3e19]:
+      - link [ref=f3e20] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f3e24]:
+          - generic [ref=f3e25]: Ksheeraam
+          - paragraph [ref=f3e27]: Farm Pure • Before 7 AM
+      - generic [ref=f3e28]:
+        - link "View checkout" [ref=f3e29] [cursor=pointer]:
+          - /url: /checkout
+          - generic [ref=f3e33]: Checkout
+        - generic [ref=f3e34]:
+          - link "Log In" [ref=f3e35] [cursor=pointer]:
+            - /url: /login
+          - link "Join Ksheeraam" [ref=f3e36] [cursor=pointer]:
+            - /url: /register
+        - button "Toggle navigation" [ref=f3e37] [cursor=pointer]
+  - main [ref=f3e39]:
+    - generic [ref=f3e40]:
+      - status "Loading" [ref=f3e42]
+      - paragraph [ref=f3e43]: Checking authentication status...
+  - contentinfo [ref=f3e44]:
+    - generic [ref=f3e45]:
+      - generic [ref=f3e46]:
+        - generic [ref=f3e52]:
+          - heading "Delivered Before 7:00 AM" [level=4] [ref=f3e53]
+          - paragraph [ref=f3e54]: Chilled cold-chain drops straight to your door every single morning.
+        - generic [ref=f3e60]:
+          - heading "24 Lab Purity Checks" [level=4] [ref=f3e61]
+          - paragraph [ref=f3e62]: Zero synthetic hormones, zero antibiotics, zero preservatives.
+        - generic [ref=f3e68]:
+          - heading "Fair Farmer Sourcing" [level=4] [ref=f3e69]
+          - paragraph [ref=f3e70]: Fair prices paid directly to local dairy farmers across India.
+      - generic [ref=f3e71]:
+        - generic [ref=f3e72]:
+          - generic [ref=f3e73]:
+            - generic [ref=f3e74]: K
+            - generic [ref=f3e75]: Ksheeraam
+          - paragraph [ref=f3e76]: Bringing back pure, raw, farm-fresh milk the way nature intended. Procured with care, packaged in sterilized glass and eco-pouches, and delivered silently before dawn.
+          - generic [ref=f3e77]:
+            - paragraph [ref=f3e78]: "FSSAI License: 11223334000189"
+            - paragraph [ref=f3e79]: "GSTIN: 29ABCDE1234F1Z5"
+        - generic [ref=f3e80]:
+          - heading "Products & Plans" [level=5] [ref=f3e81]
+          - list [ref=f3e82]:
+            - listitem [ref=f3e83]:
+              - link "Pure Cow Milk (500ml & 1L)" [ref=f3e84] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f3e85]:
+              - link "Desi Gir Cow A2 Milk" [ref=f3e86] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f3e87]:
+              - link "Creamy Buffalo Milk" [ref=f3e88] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f3e89]:
+              - link "Vedic Bilona Cow Ghee" [ref=f3e90] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f3e91]:
+              - link "Fresh Farm Paneer & Curd" [ref=f3e92] [cursor=pointer]:
+                - /url: /products
+        - generic [ref=f3e93]:
+          - heading "Account & Service" [level=5] [ref=f3e94]
+          - list [ref=f3e95]:
+            - listitem [ref=f3e96]:
+              - link "Manage Active Subscriptions" [ref=f3e97] [cursor=pointer]:
+                - /url: /subscriptions
+            - listitem [ref=f3e98]:
+              - link "Track Morning Deliveries" [ref=f3e99] [cursor=pointer]:
+                - /url: /orders
+            - listitem [ref=f3e100]:
+              - link "Wallet Top-up & Invoices" [ref=f3e101] [cursor=pointer]:
+                - /url: /payments
+            - listitem [ref=f3e102]:
+              - link "Delivery Addresses" [ref=f3e103] [cursor=pointer]:
+                - /url: /addresses
+            - listitem [ref=f3e104]:
+              - link "Cart & Express Checkout" [ref=f3e105] [cursor=pointer]:
+                - /url: /checkout
+        - generic [ref=f3e106]:
+          - heading "Get in Touch" [level=5] [ref=f3e107]
+          - generic [ref=f3e108]:
+            - 'link "WhatsApp: +919876543210" [ref=f3e109] [cursor=pointer]':
+              - /url: https://wa.me/919876543210?text=Hello%20Ksheeraam!%20I%20have%20an%20inquiry%20about%20milk%20delivery.
+            - generic [ref=f3e113]: support@ksheeraam.com
+            - generic [ref=f3e118]: Ksheeraam Chilling & Cold-Chain Center, Bengaluru, Karnataka, India
+      - paragraph [ref=f3e124]: © 2026 Ksheeraam Dairy Private Limited. All rights reserved.
+  - button "Chat on WhatsApp" [ref=f3e126] [cursor=pointer]:
+    - generic [ref=f3e132]: WhatsApp Order & Help
+  - navigation [ref=f3e133]:
+    - generic [ref=f3e134]:
+      - link "Home" [ref=f3e135] [cursor=pointer]:
+        - /url: /
+      - link "Products" [ref=f3e140] [cursor=pointer]:
+        - /url: /products
+      - link "Subscriptions" [ref=f3e145] [cursor=pointer]:
+        - /url: /subscriptions
+      - link "Orders" [ref=f3e149] [cursor=pointer]:
+        - /url: /orders
+      - link "Account" [ref=f3e155] [cursor=pointer]:
+        - /url: /profile

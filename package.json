@@ -1,0 +1,21 @@
+{
+  "name": "ksheeraam-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ksheeraam Milk Delivery Monorepo (Customer Web, Admin Web, API Server & Contracts)",
+  "scripts": {
+    "dev": "pnpm --filter @ksheeraam/customer-web dev",
+    "dev:customer": "pnpm --filter @ksheeraam/customer-web dev",
+    "dev:admin": "pnpm --filter @ksheeraam/admin-web dev",
+    "dev:api": "pnpm --filter @ksheeraam/api-server dev",
+    "dev:all": "pnpm --parallel dev",
+    "build": "pnpm --recursive build",
+    "build:contracts": "pnpm --filter @ksheeraam/contracts build",
+    "build:customer": "pnpm --filter @ksheeraam/customer-web build",
+    "build:admin": "pnpm --filter @ksheeraam/admin-web build",
+    "build:api": "pnpm --filter @ksheeraam/api-server build",
+    "test": "pnpm --filter @ksheeraam/api-server test",
+    "seed": "pnpm --filter @ksheeraam/api-server seed"
+  },
+  "devDependencies": {}
+}

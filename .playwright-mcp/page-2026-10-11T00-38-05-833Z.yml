@@ -1,0 +1,35 @@
+- generic [ref=f10e3]:
+  - generic [ref=f10e4]:
+    - generic [ref=f10e5]:
+      - generic [ref=f10e7]: "Live Backend: http://localhost:5000/api/v1"
+      - generic [ref=f10e8]: •
+      - generic [ref=f10e9]: Targeting Express + MongoDB Server
+    - button "Switch to Delivery Agent View" [ref=f10e10] [cursor=pointer]
+  - generic [ref=f10e16]:
+    - banner [ref=f10e17]:
+      - generic [ref=f10e18]:
+        - button [ref=f10e19] [cursor=pointer]
+        - generic [ref=f10e21]: Ksheeraam Admin
+      - generic [ref=f10e22]:
+        - generic [ref=f10e23]: Rajesh Sharma (Admin)
+        - button [ref=f10e24] [cursor=pointer]
+    - main [ref=f10e28]:
+      - generic [ref=f10e29]:
+        - generic [ref=f10e30]:
+          - generic [ref=f10e31]:
+            - heading "Operational & Inventory Reporting" [level=1] [ref=f10e32]
+            - paragraph [ref=f10e35]: Aggregated audit summaries for procurement intake, drop fulfillment rates, shrinkage loss, and daily revenue.
+          - button "Export CSV Ledger" [ref=f10e37] [cursor=pointer]
+        - generic [ref=f10e42]:
+          - generic [ref=f10e51]:
+            - generic [ref=f10e52]: Units Procured
+            - generic [ref=f10e53]: 0 units
+          - generic [ref=f10e60]:
+            - generic [ref=f10e61]: Delivered to Customers
+            - generic [ref=f10e62]: 0 units
+          - generic [ref=f10e70]:
+            - generic [ref=f10e71]: Shrinkage / Leakage Rate
+            - generic [ref=f10e72]: 0% (0 units)
+          - generic [ref=f10e78]:
+            - generic [ref=f10e79]: Total Gross Revenue
+            - generic [ref=f10e80]: ₹0

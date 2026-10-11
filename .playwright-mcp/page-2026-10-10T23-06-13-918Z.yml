@@ -1,0 +1,33 @@
+- generic [ref=f4e47]:
+  - banner [ref=f4e48]:
+    - generic [ref=f4e49]:
+      - generic [ref=f4e57]:
+        - heading "Ksheeraam Delivery Partner" [level=1] [ref=f4e58]
+        - paragraph [ref=f4e59]: Bellandur & Sarjapur Road Morning Sector 1
+      - generic [ref=f4e60]:
+        - button "Admin Mode" [ref=f4e61] [cursor=pointer]
+        - button "Sign Out" [ref=f4e66] [cursor=pointer]
+  - main [ref=f4e70]:
+    - generic [ref=f4e72]:
+      - generic [ref=f4e73]:
+        - generic [ref=f4e74]:
+          - text: Morning Delivery Manifest
+          - heading "Assigned Route Drops" [level=1] [ref=f4e75]
+          - paragraph [ref=f4e76]:
+            - text: "Agent:"
+            - strong [ref=f4e77]: Ramesh Kumar
+            - text: • Bellandur & Sarjapur Road Morning Sector 1
+        - generic [ref=f4e78]:
+          - text: "0"
+          - generic [ref=f4e79]: Drops Remaining
+      - generic [ref=f4e80]:
+        - button "Pending (0)" [ref=f4e81] [cursor=pointer]
+        - button "Completed (0)" [ref=f4e82] [cursor=pointer]
+  - navigation [ref=f4e86]:
+    - generic [ref=f4e87]:
+      - link "My Route Drops" [ref=f4e88] [cursor=pointer]:
+        - /url: /delivery/manifest
+      - link "Completed Drops" [ref=f4e93] [cursor=pointer]:
+        - /url: /delivery/history
+      - link "Rider Profile" [ref=f4e98] [cursor=pointer]:
+        - /url: /delivery/profile

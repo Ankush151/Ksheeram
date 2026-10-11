@@ -1,0 +1,23 @@
+- generic [ref=f9e3]:
+  - generic [ref=f9e4]:
+    - generic [ref=f9e5]:
+      - generic [ref=f9e7]: "Live Backend: http://localhost:5000/api/v1"
+      - generic [ref=f9e8]: •
+      - generic [ref=f9e9]: Targeting Express + MongoDB Server
+    - button "Switch to Delivery Agent View" [ref=f9e10] [cursor=pointer]
+  - generic [ref=f9e16]:
+    - banner [ref=f9e17]:
+      - generic [ref=f9e18]:
+        - button [ref=f9e19] [cursor=pointer]
+        - generic [ref=f9e21]: Ksheeraam Admin
+      - generic [ref=f9e22]:
+        - generic [ref=f9e23]: Rajesh Sharma (Admin)
+        - button [ref=f9e24] [cursor=pointer]
+    - main [ref=f9e28]:
+      - generic [ref=f9e29]:
+        - generic [ref=f9e30]:
+          - generic [ref=f9e31]:
+            - heading "Customer Accounts" [level=1] [ref=f9e32]
+            - paragraph [ref=f9e33]: View customer subscriber status, wallet balances, and delivery drop addresses.
+          - textbox "Search customer name, phone, area..." [ref=f9e37]
+        - paragraph [ref=f9e42]: Loading customer directory...

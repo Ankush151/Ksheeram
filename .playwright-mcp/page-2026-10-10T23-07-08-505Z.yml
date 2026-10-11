@@ -1,0 +1,60 @@
+- generic [ref=f4e47]:
+  - banner [ref=f4e48]:
+    - generic [ref=f4e49]:
+      - generic [ref=f4e57]:
+        - heading "Ksheeraam Delivery Partner" [level=1] [ref=f4e58]
+        - paragraph [ref=f4e59]: Bellandur & Sarjapur Road Morning Sector 1
+      - generic [ref=f4e60]:
+        - button "Admin Mode" [ref=f4e61] [cursor=pointer]
+        - button "Sign Out" [ref=f4e66] [cursor=pointer]
+  - main [ref=f4e70]:
+    - generic [ref=f4e312]:
+      - generic [ref=f4e313]:
+        - heading "Shift History & Cash Summary" [level=1] [ref=f4e314]
+        - paragraph [ref=f4e319]: Review delivered drops and reconcile total COD cash collected before depot sign-off.
+      - generic [ref=f4e321]:
+        - generic [ref=f4e322]:
+          - generic [ref=f4e323]: COD Cash In Hand
+          - generic [ref=f4e324]: Ready for Handover
+        - generic [ref=f4e325]: ₹206
+        - paragraph [ref=f4e326]: Hand over this cash amount to the dispatch manager at the central chilling hub.
+      - generic [ref=f4e327]:
+        - generic [ref=f4e334]:
+          - generic [ref=f4e335]: Delivered
+          - generic [ref=f4e336]: 2 drops
+        - generic [ref=f4e344]:
+          - generic [ref=f4e345]: Exceptions / Failed
+          - generic [ref=f4e346]: 0 drops
+      - generic [ref=f4e347]:
+        - heading "Completed Route Log" [level=3] [ref=f4e348]
+        - generic [ref=f4e349]:
+          - generic [ref=f4e350]:
+            - generic [ref=f4e351]:
+              - generic [ref=f4e352]:
+                - generic [ref=f4e353]: Priya Nair
+                - text: KSH-2026-1003
+              - generic [ref=f4e354]: delivered
+            - generic [ref=f4e355]: A-201, Mantri Espana, Bellandur Outer Ring Road
+            - generic [ref=f4e360]:
+              - generic [ref=f4e361]: 1x Farm Fresh Cow Milk, 1x Vedic Bilona Cow Ghee
+              - generic [ref=f4e362]: Prepaid
+            - generic [ref=f4e363]: "Note: Handed to customer outside flat A-201."
+          - generic [ref=f4e364]:
+            - generic [ref=f4e365]:
+              - generic [ref=f4e366]:
+                - generic [ref=f4e367]: Karthik Sundaram
+                - text: KSH-2026-1004
+              - generic [ref=f4e368]: delivered
+            - generic [ref=f4e369]: Flat 12B, Prestige Ferns Residency, Harlur Road
+            - generic [ref=f4e374]:
+              - generic [ref=f4e375]: 2x Creamy Rich Buffalo Milk
+              - generic [ref=f4e376]: Collected ₹206
+            - generic [ref=f4e377]: "Note: Left in milk drop bag on outer grill door"
+  - navigation [ref=f4e86]:
+    - generic [ref=f4e87]:
+      - link "My Route Drops" [ref=f4e88] [cursor=pointer]:
+        - /url: /delivery/manifest
+      - link "Completed Drops" [active] [ref=f4e93] [cursor=pointer]:
+        - /url: /delivery/history
+      - link "Rider Profile" [ref=f4e98] [cursor=pointer]:
+        - /url: /delivery/profile
